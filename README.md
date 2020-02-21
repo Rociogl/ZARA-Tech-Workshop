@@ -11,4 +11,4 @@ Una vez clasificado el tipo de prenda que quiere el cliente, se aplicaría un si
 
 Por último, se almacenarían todas las imágenes en un Data Lake con el objetivo de crear cuadros de mandos para negocio y diseñadores, como por ejemplo podría ser que tipo de prenda o qué colores son los que más buscan los clientes.
 
-En definitiva, el objetivo final de este proyecto sería conseguir crear un ciclo de retroalimentación en el que ZARA fuera capaz de proveer al cliente cualquier prenda y que la mayoría de la población acabe vistiendo de ZARA, ya que ZARA sería capaz de adaptarse a “cualquier demanda”.*
+En definitiva, el objetivo final de este proyecto sería conseguir crear un ciclo de retroalimentación en el que ZARA fuera capaz de proveer al cliente cualquier prenda y que la mayoría de la población acabe vistiendo de ZARA, ya que ZARA sería capaz de adaptarse a “cualquier demanda”*
